@@ -12,15 +12,7 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ## Layout  
 <img src="img/listagem_de_livros.PNG"   width="500" height="300" /> <img src="img/adiciona_livro.PNG"   width="500" height="300" /> <img src="img/editar_livro.PNG"   width="500" height="300" />  <img src="img/deleta_livro.PNG"   width="500" height="300" />
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+ 
 
 # Tecnologias utilizadas
 ## Back end
@@ -74,7 +66,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Antonio Romes 
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/antonio-romes/
 
