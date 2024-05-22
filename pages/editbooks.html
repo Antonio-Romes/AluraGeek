@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AluraGeek -Adicionar Livro</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/addbooks.css">
+</head>
+<body>
+    <header>
+        <h1 class="header__title">AluraGeek - Livros</h1>
+    </header>
+    <main class="container">
+       
+        <h2 class="subtitle">Editar Livros </h2>
+
+        <section class="section__form">
+            <form class="form">
+                <input hidden data-id value=""></input>
+                <div class="form__div__inputs">
+                    <label class="form__label" for="Titulo">Título: </label>
+                   <input class="form__inputs" type="text" name="titulo" id="titulo" placeholder="Digite o título do livro">
+                </div>
+                <div class="form__div__inputs">
+                    <label class="form__label" for="Autor">Autor: </label>
+                   <input class="form__inputs" type="text" name="autor" id="autor" placeholder="Digite o Autor do livro">
+                </div> 
+                <div class="form__div__inputs">
+                    <label class="form__label" for="anoLancamento">Ano Lançamento: </label>
+                   <input class="form__inputs" type="text" name="anoLancamento" id="anoLancamento" placeholder="Digite o ano do lancamento do livro">
+                </div>
+                <div class="form__div__inputs">
+                    <label class="form__label" for="editora">Editora: </label>
+                   <input class="form__inputs" type="text" name="editora" id="editora" placeholder="Digite a editora do livro">
+                </div>
+                <div class="form__div__inputs">
+                    <label class="form__label" for="descricao">Descrição: </label>
+                   <textarea class="form__inputs" rows="4" cols="50" id="descricao" placeholder="Digite a descricao do livro"></textarea>
+                </div> 
+                <div class="form__div__inputs">
+                    <label class="form__label" for="imagem">Imagem: </label>
+                   <input class="form__inputs" type="text" name="imagem" id="imagem" placeholder="Digite a imagem do livro">
+                </div>
+             </form>
+        </section>
+        <div class="container__buttons">
+            <button class="form__button verde__claro" type="button" data-backlisting>Voltar para Listagem</button>
+            <button class="form__button azul__medio" type="button" data-edit>Editar</button> 
+        </div>
+    </main>
+    <footer>
+        <h3 class="footer__subtitle">AluraGeek - Livros</h3>
+        <p>DESENVOLVIDO POR <strong class="footer__emphasis">Antonio Romes </strong> </p>
+        <p>Alura Latam 2024</p>
+    </footer>
+   
+    <script src="../js/editbooks.js" type="module" ></script>  
+</body>
+</html>

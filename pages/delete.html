@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AluraGeek -Adicionar Livro</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/addbooks.css">
+</head>
+<body>
+    <header>
+        <h1 class="header__title">AluraGeek - Livros</h1>
+    </header>
+    <main class="container">
+       
+        <h2 class="subtitle">Deletar Livros </h2>
+
+        <section class="section__form">
+            <form class="form">
+                <input hidden data-id value=""></input>
+                <div class="form__div__inputs">
+                    <label class="form__label" for="Titulo">Título: </label>
+                    <span class="" data-span-titulo></span>  
+                </div>
+                <div class="form__div__inputs">
+                    <label class="form__label" for="Autor">Autor: </label>
+                    <span class="" data-span-autor></span>  
+                </div> 
+                <div class="form__div__inputs">
+                    <label class="form__label" for="anoLancamento">Ano Lançamento: </label>
+                    <span class="" data-span-anoLancamento></span> 
+                </div>
+                <div class="form__div__inputs">
+                    <label class="form__label" for="editora">Editora: </label>
+                    <span class="" data-span-editora></span>  
+                </div>
+                <div class="form__div__inputs">
+                    <label class="form__label" for="descricao">Descrição: </label>
+                    <span class="" data-span-descricao></span>  
+                </div> 
+                <div class="form__div__inputs">
+                    <label class="form__label" for="imagem">Imagem: </label>
+                    <span class="" data-span-imagem></span>  
+                </div>
+             </form>
+        </section>
+        <div class="container__buttons">
+            <button class="form__button verde__claro" type="button" data-backlisting>Voltar para Listagem</button>
+            <button class="form__button azul__medio" type="button" data-delete>Deletar</button> 
+        </div>
+    </main>
+    <footer>
+        <h3 class="footer__subtitle">AluraGeek - Livros</h3>
+        <p>DESENVOLVIDO POR <strong class="footer__emphasis">Antonio Romes </strong> </p>
+        <p>Alura Latam 2024</p>
+    </footer>
+   
+    <script src="../js/deletebook.js" type="module" ></script>  
+</body>
+</html>

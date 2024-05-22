@@ -1,0 +1,126 @@
+*,
+*::before,
+*::after {
+    --azul-escuro: #154580;
+    --azul-medio: #3970BE;
+    --azul-claro: #E5F1FF;
+    --cinza-texto: #444444;
+    --cinza-claro: #ECECEC;
+    --vermelho-escuro : #C34A36;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: var(--azul-claro);
+} 
+
+/*header*/
+.header__title{
+    width: 100%;
+    height: 5rem;
+    background-color: var(--azul-escuro);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--cinza-claro);
+}
+
+/*main*/
+.container{
+    width:  100%;
+    min-height: 75vh;
+    padding: 1.5rem;
+}
+.section__listofbooks{
+    padding: 1rem .5rem;
+    margin-top: .8rem; 
+    border-top: .1rem solid var(--cinza-texto); 
+    border-bottom: .1rem solid var(--cinza-texto); 
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.btn{
+    padding: .5rem;
+    border-radius: .5rem;
+    font-size: 1rem;
+    color: var(--azul-claro);
+    background-color: var(--azul-medio);
+}
+
+.container__subtitle{
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    font-weight: 600;
+}
+
+.container__message{
+    font-size: 1.5rem;
+    color: var(--vermelho-escuro);
+    display: flex;
+    justify-content: center;
+}
+
+.section__description{ 
+    display: flex;
+    width: 25rem;
+    height: auto;
+    border-radius: 1rem;
+    border: 1px solid var(--azul-escuro);
+}
+
+.description__image{ 
+    width: 15rem;  
+    display: flex;
+    padding: .4rem;
+    align-items: center;
+}
+.description__buttons{
+    display: flex;
+    justify-content: end;
+    gap: .3rem;
+    padding: .3rem .5rem .3rem 0 ;
+}
+.description__buttons__button{
+    width: 10%;
+    cursor: pointer;
+}
+
+.image{
+    width: 100%;
+    height: 90%;
+}
+
+.description{ 
+    width: 100%;
+    padding: .5rem;
+}
+
+.description__title{
+    display: flex;
+    justify-content: center;
+}
+/*Footer*/
+
+footer{
+    width: 100%;
+    height: 8rem;
+    background-color: var(--azul-escuro);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--cinza-claro);
+}
+
+.footer__subtitle{
+    font-size: 2rem;
+}
+
+.footer__emphasis{
+    font-size: 1.2rem;
+}

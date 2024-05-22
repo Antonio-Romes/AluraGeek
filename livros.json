@@ -1,0 +1,76 @@
+{
+  "livros": [
+    {
+      "id": "b3f5eea6-32a6-4e6f-9c6c-6689079ef3e4",
+      "titulo": " Quincas Borba",
+      "autor": "Machado de Assis",
+      "anoLancamento": "1891 – 1ª Edição",
+      "editora": "MEC",
+      "descricao": "Publicado pela primeira vez em livro em 1891, depois portanto de Memórias póstumas de Brás Cubas (1881) e antes de Dom Casmurro (1899), Quincas Borba é uma das obras mais marcantes da fase realista de Machado de Assis.",
+      "imagem": "https://cdn.cultura.com/cdn-cgi/image/width=380/media/pim/12_metadata-image-7942442.png"
+    },
+    {
+      "id": "a2fa0f19-9bc4-4b15-a906-132f0b581375",
+      "titulo": "Informática Avançada",
+      "autor": "Vários Autores",
+      "anoLancamento": "2013 – 1ª Edição",
+      "editora": "IFRN Editora",
+      "descricao": "A tecnologia é bem mais que os artefatos e instrumentos materiais que manuseamos cotidianamente e que, através do desenvolvimento tecnológico, o homem conseguiu se diferenciar ainda mais dos demais animais, adaptando-o às suas necessidades.",
+      "imagem": "https://static-media.hotmart.com/xYzxNRk4Q28TDo-xMdMQ3hRJ2Lc=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/21f130b3-d721-429f-8fb5-9323eedc9c70/image_preview.jpg?w=920"
+    },
+    {
+      "id": "a69b3b61-949e-46d4-9ae0-fa00e1dd8ab7",
+      "titulo": "À Luz das Estrelas",
+      "autor": "Lilia Irmeli",
+      "anoLancamento": "2017 – 2ª Edição",
+      "editora": "CNPq",
+      "descricao": "O livro À Luz Das Estrelas é sobre estrelas — como nascem, vivem e morrem. E, especialmente, como fabricam os elementos químicos que — muito tempo depois — vão se aglutinar para formar estruturas, como as pedras,",
+      "imagem": "https://www.baixelivros.com.br/media/2020/04/a-luz-das-estrelas.jpg"
+    },
+    {
+      "id": "9b9f8f1a-637f-4aa7-a6c4-3c35b3fbf96c",
+      "titulo": "Manual do Enem",
+      "autor": "Manual do Enem",
+      "anoLancamento": " 2021 – 1ª Edição",
+      "editora": "Gradus Editora",
+      "descricao": "Apresentamos a segunda edição do Manual do Enem mais uma vez tendo como foco a progressão da estrutura intelectual, física e humana/psicológica dos nossos alunos, no que se refere à preparação para o Exame Nacional do",
+      "imagem": "https://scontent.faqa4-1.fna.fbcdn.net/v/t39.30808-6/301389568_445756200903909_6580808313973955860_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XzHQQ9dOh_QQ7kNvgG97Sw9&_nc_ht=scontent.faqa4-1.fna&oh=00_AYDcfWdKEWELKmWbEzvK6HBUUpUqm13tVkIE5HWPY9tjJA&oe=6653356F"
+    },
+    {
+      "id": "641376d3-9ed9-4c71-8ba5-d47ec1712503",
+      "titulo": "Poder Leg. Municipal",
+      "autor": "Humberto Dantas",
+      "anoLancamento": "2018 – 1ª Edição",
+      "editora": "Voto Consciente",
+      "descricao": "Política não é o que eu acho apenas. Isso é somente opinião política sobre um assunto ou um problema da cidade ou do país, e pode incluir as crenças pessoais que você imagina serem razoáveis para a solução de um dado problema.",
+      "imagem": "https://www.votoconsciente.org.br/wp-content/uploads/2018/12/imagem.png"
+    },
+    {
+      "id": "e3826f5e-4959-4386-bbbc-67883cb01e01",
+      "titulo": "A Cruz de Fogo",
+      "autor": "Diana G.",
+      "anoLancamento": "2020 – 1ª Edição",
+      "editora": "Arqueiro",
+      "descricao": "A guerra se aproxima, garantiu-lhe sua esposa, Claire Randall. E, mesmo não querendo acreditar nesse triste futuro, Jamie Fraser está ciente de que não pode ignorar o conhecimento que só uma viajante do tempo poderia ter.",
+      "imagem": "https://www.editoraarqueiro.com.br/media/upload/conteudos/outlander_cruzdefogo_capaWEB.jpg"
+    },
+    {
+      "id": "361f44ad-fce7-427e-aaca-0fc114cd8953",
+      "titulo": " A Sutil Arte de Ligar",
+      "autor": "Mark Manson",
+      "anoLancamento": "2019 – 1ª Edição",
+      "editora": "Intrínseca",
+      "descricao": "Chega de tentar buscar um sucesso que só existe na sua cabeça. Chega de se torturar para pensar positivo enquanto sua vida vai ladeira abaixo. Chega de se sentir inferior por não ver o lado bom",
+      "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYQthgnfTjiBF0smE9E67xwkD5YNLAIuWZ-nSuFSHfoeoQXDpP"
+    },
+    {
+      "id": "2c19aeb3-52df-4324-8bde-d289bc01fd99",
+      "titulo": "Matemática e Suas Tecn.",
+      "autor": "Prof. Eduardo Jupi",
+      "anoLancamento": "2020 – 1ª Edição",
+      "editora": "Unicesumar",
+      "descricao": "Apresentam atividades que integram as diferentes áreas de conhecimento e contemplam as competências e habilidades relacionadas à matriz de referências de exatas no Enem. Várias questões estruturadas conforme o padrão do Exame Nacional do Ensino Médio.",
+      "imagem": "https://static.wixstatic.com/media/f9f909_b7f8a706635740b5a3e2ef719bb8fb19~mv2.png/v1/fill/w_290,h_351,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CAPA%20292_JPG.png"
+    }
+  ]
+}

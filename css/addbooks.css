@@ -1,0 +1,79 @@
+*,
+*::before,
+*::after {
+    --azul-escuro: #154580;
+    --azul-medio: #3970BE;
+    --azul-claro: #E5F1FF;
+    --cinza-texto: #444444;
+    --cinza-claro: #ECECEC;
+    --vermelho-escuro : #C34A36;
+    --verde-claro: #00C2A8;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.verde__claro{
+    background-color: var(--verde-claro);
+    color: var(--cinza-claro);
+}
+
+.azul__medio{
+    background-color: var(--azul-medio);
+    color: var(--cinza-claro);
+}
+.cinza__escuro{
+    background-color: var(--cinza-texto);
+    color: var(--cinza-claro);
+}
+.subtitle{
+    width: 100%;
+    margin: .9rem 0 ; 
+    font-size: 2rem;
+}
+
+.section__form{
+    width: 100%; 
+    display: flex;
+    justify-content: center; 
+    border-top: 1px solid var(--cinza-texto);
+    border-bottom: 1px solid var(--cinza-texto); 
+}
+
+.form{
+    width: 80%; 
+    padding: 1rem; 
+    border-radius: 1rem;
+}
+
+.form__div__inputs{
+    margin: .9rem 0;
+}
+
+.form__label{
+    display: block;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.form__inputs{
+    width: 100%;
+    padding: .3rem .5rem;
+    border-radius: 1rem;
+    border: 0;
+    margin-top: .2rem;
+}
+
+.container__buttons{
+    display: flex;
+    justify-content: center;
+    padding: .8rem;
+}
+
+.form__button{
+    padding: .5rem .8rem;
+    border-radius: 1rem;
+    margin: 0 .4rem;
+    border: 0;
+
+}
